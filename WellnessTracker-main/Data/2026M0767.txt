@@ -1,0 +1,8 @@
+Name: joshua redel busloy
+ID: 2026M0767
+Sleep: 0.0
+SleepGoal: 8.0
+Exercise: 0
+ExerciseGoal: 60
+Water: 0.0
+WaterGoal: 2.0
